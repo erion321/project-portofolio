@@ -17,11 +17,11 @@ export const Hero = () => {
             I&apos;m a <span>Web Developer</span>
           </h2>
         </Reveal>
-        <Reveal>
+        {/* <Reveal>
           <p className={styles.aboutCopy}>
-            Web developer who likes building cool and interactive web apps.
-          </p>
-        </Reveal>
+      Passionate web developer who has always been fascinated by technology
+           </p>
+        </Reveal> */}
         <Reveal>
           <StandardButton
             onClick={() => document.getElementById("contact")?.scrollIntoView()}
