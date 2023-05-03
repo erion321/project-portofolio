@@ -17,7 +17,7 @@ export const Hero = () => {
             I&apos;m a <span>Web Developer</span>
           </h2>
         </Reveal>
-        {/* <Reveal>
+       {/*  <Reveal>
           <p className={styles.aboutCopy}>
       Passionate web developer who has always been fascinated by technology
            </p>

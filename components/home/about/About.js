@@ -24,8 +24,8 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               I am currently working only on my personal projects mostly to show
-              my skills and learn new technologies as a belive the best way to
-              learn coding is by building stuff. My goal is to build websites
+              my skills and learn new technologies as I belive the best way to
+              learn coding is by building. My goal is to build websites
               that are not only visually appealing but also highly functional
             </p>
           </Reveal>
